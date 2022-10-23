@@ -1,7 +1,6 @@
 
 # testing
 
-#added to the file from git hub
 
 
 MENU = {
